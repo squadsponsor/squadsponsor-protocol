@@ -1,0 +1,13 @@
+{
+  "name": "squadsponsor-protocol",
+  "version": "1.0.0",
+  "description": "Decentralized x402 data protocol for runners",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@algorandfoundation/x402": "^1.0.0",
+    "goplausible-facilitator-sdk": "^1.0.0"
+  }
+}
